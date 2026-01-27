@@ -38,3 +38,6 @@ Insights
 - The early-career workforce experiences higher attrition rates.  
 - Certain departments consistently contribute to employee exits.  
 - Experience and compensation levels significantly influence workforce stability.
+
+Screenshot
+<img src="">
