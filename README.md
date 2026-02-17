@@ -40,4 +40,4 @@ Insights
 - Experience and compensation levels significantly influence workforce stability.
 
 Screenshot
-<img src="">
+<img src=<"https://github.com/Machry3004/HR-Intelligence-workforce-Analysis/blob/main/Hr%20workforce%20analysis%20.png">
